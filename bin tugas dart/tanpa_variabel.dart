@@ -1,6 +1,6 @@
 void main() {
-  print('Eko Kurniawan Khannedy');
-  print('Eko Kurniawan Khannedy');
-  print('Eko Kurniawan Khannedy');
-  print('Eko Kurniawan Khannedy');
+  print('Amirah Zahratul Huda');
+  print('Amirah Zahratul Huda');
+  print('Amirah Zahratul Huda');
+  print('Amirah Zahratul Huda');
 }
